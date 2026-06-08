@@ -17,4 +17,4 @@ Both a map size unlocker and a PNG to Map converter.
 4. Go to the map and edit it. The game will read the PNG and convert it to a map. Then just save the map and voila, you now have a working map.
 
 ## Warnings
-The game was not meant to handle sizes much beyond 1000x1000. If you create a map past that expect long loading times and some lag if the map is big enough and you zoom out.
+The game was not meant to handle sizes much beyond 1000x1000. If you create a map past that expect long loading times and some lag if the map is big enough and you zoom out. Anything beyond 2500x2500 I would not recommend.

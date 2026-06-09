@@ -7,7 +7,7 @@ Both a map size unlocker and a PNG to Map converter.
 ## Install
 1. Extract the BepInEx zip into the game folder (next to the exe). Run the game once.
 2. **EXTRACT** **this mod’s zip** into the plugins location so that:
-   - BepInEx\plugins\CartographersToolkit.dll exists
+   - BepInEx\plugins\CartographersToolkit\CartographersToolkit.dll exists
 3. Run the game. Check `BepInEx/LogOutput.log` for "Cartographer's Toolkit loaded".
 
 ## Converter Instructions
